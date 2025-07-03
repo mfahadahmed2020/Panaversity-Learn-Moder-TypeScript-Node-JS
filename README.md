@@ -1,1 +1,1 @@
-# Panaversity-Learn-Moder-TypeScript-Node-JS
+# Panaversity Learn Moder TypeScript & Node-JS
