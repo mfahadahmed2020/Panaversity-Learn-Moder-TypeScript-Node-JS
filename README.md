@@ -1,1 +1,1 @@
-# Panaversity Learn Modern TypeScript & Node JS
+# Panaversity Learn Modern TypeScripts & Node JS
